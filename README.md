@@ -7,8 +7,7 @@
 <div align="center">
   
 ![snake gif](https://github.com/mulawastaken/mulawastaken/blob/output/github-snake-dark.svg)
-
-</div>div align="center">
+</div>
 
 <br>
 <!--
