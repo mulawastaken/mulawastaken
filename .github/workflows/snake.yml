@@ -59,7 +59,7 @@ jobs:
           # GitHub username to generate the animation for
 
           github_user_name: ${{ github.repository_owner }}
-
+          include_private: true
 
 
           # Define the output files and their configurations
