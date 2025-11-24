@@ -3,7 +3,7 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Mulawastaken" alt="Typing SVG" /></a>
 </p>
-
+![snake gif](https://github.com/mulawastaken/mulawastaken/blob/output/github-snake-dark.svg)
 <br>
 <!--
 **mulawastaken/mulawastaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
