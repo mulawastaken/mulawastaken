@@ -1,4 +1,13 @@
+<div align="center">
 
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=mula&height=150&fontSize=60&desc=was%20taken&descAlignY=75&descAlign=55)
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/215283417-55c9fe42-d47b-4b51-94d1-cfc135280cbd.gif"/>
+</div>
+
+###
 <!--MINE DEFAULTh1 align="center"><b>Welcome </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1
 <br>
 <p align="center">
