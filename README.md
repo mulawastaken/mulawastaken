@@ -16,7 +16,7 @@
 
 <div align="center">
   
-![snake gif](https://github.com/mulawastaken/mulawastaken/blob/output/github-snake.svg)
+![snake animation](https://github.com/mulawastaken/mulawastaken/blob/output/github-contribution-grid-snake2.svg)
 </div>
 
 <!--
