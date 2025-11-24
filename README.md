@@ -1,6 +1,6 @@
 <div align="center">
 
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=mula&height=150&fontSize=60&desc=was%20taken&descAlignY=75&descAlign=55)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=mula&height=150&fontSize=60&desc=wastaken&descAlignY=75&descAlign=55)
 </div>
 
 <div align="center">
